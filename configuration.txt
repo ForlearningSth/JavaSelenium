@@ -1,0 +1,4 @@
+Version:
+	Firefox: 49.0
+	Java: 1.8 +
+	selenium: 3.0
