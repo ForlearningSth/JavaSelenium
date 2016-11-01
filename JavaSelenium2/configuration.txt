@@ -1,0 +1,9 @@
+Version:
+	Firefox: 49.0
+	Java: 1.8 +
+	selenium: 3.0
+	
+Q&A:
+	1. error: org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms.
+		resolve: pls consider your firefox version should be above 48.0+ version.
+	
